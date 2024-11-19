@@ -34,7 +34,7 @@ Conda is like a magical environment manager that'll keep your project dependenci
 3. **Clone the Repository**
    ```bash
    git clone https://github.com/nimish-nimishmittal/ai-syllabus-prep.git
-   cd syllabus-question-generator
+   cd ai-syllabus-prep
    ```
 
 4. **Install Dependencies**
